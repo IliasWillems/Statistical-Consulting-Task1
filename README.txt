@@ -1,0 +1,2 @@
+The data sets used in the scripts is not uploaded to the repository as they are too large. They should be downloaded manually from
+Toledo and put in a folder called "Data" that is in the same directory as where you are running the scripts from.
